@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/88916774/179337412-37c0850a-134c-4404-9cb1-2e9bc063971e.png)
-
-
 <!--
 **M-Rifqy/M-Rifqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
