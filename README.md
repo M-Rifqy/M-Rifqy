@@ -1,4 +1,4 @@
-### Hi there 👋
+### The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it
 
 <!--
 **M-Rifqy/M-Rifqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
